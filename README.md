@@ -1,6 +1,6 @@
 Olá, meu nome é Cintia 👋 <img src="Eu.jpg" alt="Foto de Cintia" width="80" align="right"/>
 
-Sou analista de sistemas e apaixonada por tecnologia, com conhecimento em algumas linguagens e ferramentas.
+Sou analista e desenvolvedora de sistemas, apaixonada por tecnologia, com conhecimento em algumas linguagens e ferramentas.
 Aqui estão alguns detalhes sobre mim:
 
 🔹 Tecnologias que eu conheço:
