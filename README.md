@@ -4,7 +4,7 @@ Sou analista de dados e desenvolvedora de sistemas, apaixonada por tecnologia, c
 Aqui estão alguns detalhes sobre mim:
 
 🔹 Tecnologias que eu conheço:
-- Excel Avançado (VBA e Macros)
+- Google Sheets (App Script)
 - PowerBi
 - Python
 - JavaScript
